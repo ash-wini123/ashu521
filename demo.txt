@@ -1,0 +1,2 @@
+this is the second file and I'm a beginner to practice git and GitHub 
+in this we can called the repo like a folders in git and github
